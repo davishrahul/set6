@@ -7,31 +7,31 @@ int main()
         switch(number)
         {
             case 1:
-            cout<<"one";
+            cout<<"One";
             break;
             case 2:
-            cout<<"two";
+            cout<<"Two";
             break;
             case 3:
-            cout<<"three";
+            cout<<"Three";
             break;
             case 4:
-            cout<<"four";
+            cout<<"Four";
             break;
             case 5:
-            cout<<"five";
+            cout<<"Five";
             break;
             case 6:
-            cout<<"six";
+            cout<<"Six";
             break;
             case 7:
-            cout<<"seven";
+            cout<<"Seven";
             break;
             case 8:
-            cout<<"eight";
+            cout<<"Eight";
             break;
             case 9:
-            cout<<"nine";
+            cout<<"Nine";
             break;
             default:
             cout<<"print no from 1 to 9";
