@@ -8,7 +8,7 @@ int main()
     getline(cin,input);
     for(int i=0;i<input.length();i++)
     {
-        if(isdigit(input[i]) || isalpha(input[i]) || (input[i]>=33 && input[i]<=64 ))
+        if(isdigit(input[i]) || isalpha(input[i]) || (input[i]>=31 && input[i]<=64 ))
         {
             count++;
         }
